@@ -1,5 +1,5 @@
 # Docker base images for Jboss projects and products
-This images is based on [jboss/java][../java-base] 
+This images is based on [jmorales/java][../java-base] 
 
 This images additionally contains:
 * jboss user (jboss as passwd)

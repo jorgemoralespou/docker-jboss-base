@@ -1,1 +1,1 @@
-docker build --rm -t "jboss/java" .
+docker build --rm -t "jmorales/java" .

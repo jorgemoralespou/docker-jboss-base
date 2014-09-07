@@ -1,1 +1,1 @@
-docker build --rm -t "jboss/base" .
+docker build --rm -t "jmorales/jboss-base" .
