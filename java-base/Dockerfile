@@ -2,7 +2,7 @@
 # Base image to all java related containers
 #
 FROM fedora:20
-MAINTAINER Jorge Morales <jmorales@redhat.com>
+MAINTAINER Jorge Morales <jorgemoralespou@gmail.com>
 
 # Update the system
 RUN yum -y update \
