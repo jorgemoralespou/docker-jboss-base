@@ -2,8 +2,7 @@
 This images is based on [jmorales/java][../java-base] 
 
 This images additionally contains:
-* jboss user (jboss as passwd)
-* root passwd
+* jboss user
 * using __jboss__ user
 * __HOME__ env variable pointing to jboss home
 * WORKDIR __/home/jboss__
