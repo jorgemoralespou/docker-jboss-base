@@ -1,1 +1,1 @@
-docker build --rm -t "jboss/base-x11" .
+docker build --rm -t "jorgemoralespou/base-x11" .

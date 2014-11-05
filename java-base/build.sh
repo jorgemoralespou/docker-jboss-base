@@ -1,1 +1,1 @@
-docker build --rm -t "jmorales/java" .
+docker build --rm -t "jorgemoralespou/java" .
